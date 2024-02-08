@@ -1,0 +1,25 @@
+{
+  "name": "ovzocss",
+  "version": "0.0.1",
+  "description": "Minimalistic and clean CSS Library",
+  "main": "src/index.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharqiewicz/ovzo-css.git"
+  },
+  "keywords": [
+    "Minimalistic",
+    "Clean",
+    "CSS",
+    "Library"
+  ],
+  "author": "Kacper Szarkiewicz (Sharqi)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharqiewicz/ovzo-css/issues"
+  },
+  "homepage": "https://ovzocss.com",
+  "devDependencies": {
+    "clean-css-cli": "^5.6.3"
+  }
+}
